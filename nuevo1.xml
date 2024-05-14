@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<p>
+    <coordenadas>
+        <punto>
+            <latitud>43.14345443093176</latitud>
+            <longitud>-6.140220170743003</longitud>
+            <leyenda>Carta de pago</leyenda>
+        </punto>
+        <punto>
+            <latitud>43.099614906387615</latitud>
+            <longitud>-6.058807845045117</longitud>
+            <leyenda>Donacion</leyenda>
+        </punto>
+        <punto>
+            <latitud>43.1776379019487</latitud>
+            <longitud>-6.1238605444899745</longitud>
+            <leyenda>Carta de perdon</leyenda>
+        </punto>
+        <punto>
+            <latitud>43.13439391614784</latitud>
+            <longitud>-6.073978454394864</longitud>
+            <leyenda>Compraventa</leyenda>
+        </punto>
+        <punto>
+            <latitud>43.14631670806127</latitud>
+            <longitud>-6.086197068245796</longitud>
+            <leyenda>Carta de pago</leyenda>
+        </punto>
+        <punto>
+            <latitud>43.099614906387615</latitud>
+            <longitud>-6.058807845045117</longitud>
+            <leyenda>Compraventa</leyenda>
+        </punto>
+        <punto>
+            <latitud>43.099614906387615</latitud>
+            <longitud>-6.058807845045117</longitud>
+            <leyenda>Compraventa</leyenda>
+        </punto>
+        <punto>
+            <latitud>43.099614906387615</latitud>
+            <longitud>-6.058807845045117</longitud>
+            <leyenda>Donacion</leyenda>
+        </punto>
+        <punto>
+            <latitud>43.18009274140617</latitud>
+            <longitud>-6.110655572338033</longitud>
+            <leyenda>Donacion</leyenda>
+        </punto>
+    </coordenadas>
+</p>
